@@ -9,10 +9,6 @@
 	@include clearfix;
 
 	[class^="col-"] {
-		height: 3rem;
-		text-align: center;
-		color: $color-white;
-		background-color: $col-background-color;
 
 		float: left;
 
